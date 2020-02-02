@@ -1,0 +1,25 @@
+{
+    "cursos": [ 
+    {
+        "id"     : 1,
+        "title" : "react desde cero",
+        "price" : 50,
+        "prof"   : "EELC",
+        "img"    : "https://depor.com/resizer/tC8jkYuRiwmMwJt2X_KoG_JmVr8=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/F5K5QXNEZNBGBPYE4QUD3V45OM.jpg"
+    },
+    {
+        "id"     : 2,
+        "title" : "Mikasa desde cero",
+        "price" : 300,
+        "prof"   : "EELC",
+        "img" :"https://depor.com/resizer/tC8jkYuRiwmMwJt2X_KoG_JmVr8=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/F5K5QXNEZNBGBPYE4QUD3V45OM.jpg"
+    },
+    {
+        "id"     : 3,
+        "title" : "Armin desde cero",
+        "price" : 20,
+        "prof"   : "EELC",
+        "img"    : "https://depor.com/resizer/tC8jkYuRiwmMwJt2X_KoG_JmVr8=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/F5K5QXNEZNBGBPYE4QUD3V45OM.jpg"
+    }
+    ]
+}
